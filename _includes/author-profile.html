@@ -1,0 +1,48 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person" class="profile-card">
+
+  <div class="profile-avatar">
+    <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
+  </div>
+
+  <h3 class="profile-name" itemprop="name">{{ author.name }}</h3>
+  {% if author.bio %}<p class="profile-affil">{{ author.bio }}</p>{% endif %}
+  {% if site.description %}<p class="profile-tagline">{{ site.description }}</p>{% endif %}
+
+  <ul class="profile-meta">
+    {% if author.location %}<li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>{% endif %}
+    {% if author.employer %}<li><i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ author.employer }}</li>{% endif %}
+  </ul>
+
+  <div class="social-row">
+    {% if author.email %}
+      <a href="mailto:{{ author.email }}" title="Email" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.googlescholar %}
+      <a href="{{ author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.github %}
+      <a href="https://github.com/{{ author.github }}" title="GitHub" aria-label="GitHub" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.twitter %}
+      <a href="https://twitter.com/{{ author.twitter }}" title="Twitter" aria-label="Twitter" target="_blank" rel="noopener"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.orcid %}
+      <a href="{{ author.orcid }}" title="ORCID" aria-label="ORCID" target="_blank" rel="noopener"><i class="ai ai-orcid" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.dblp %}
+      <a href="{{ author.dblp }}" title="DBLP" aria-label="DBLP" target="_blank" rel="noopener"><i class="ai ai-dblp" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.researchgate %}
+      <a href="{{ author.researchgate }}" title="ResearchGate" aria-label="ResearchGate" target="_blank" rel="noopener"><i class="fab fa-researchgate" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.googlescholar_stats %}{% endif %}
+  </div>
+
+</div>

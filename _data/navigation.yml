@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Internships"
+    url: "/#-internships"
+
+  - title: "Education"
+    url: "/#-education"
