@@ -65,7 +65,7 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <div class="pub" markdown="1">
 <span class="badge-venue v-icml">KDD 2026</span>
 
-[**Decomposing Predictive Roles of Semantic and Collaborative Information for Sequential Recommendation**](https://arxiv.org/abs/2606.10346)
+[**Decomposing Predictive Roles of Semantic and Collaborative Information for Sequential Recommendation**](https://arxiv.org/abs/2606.10346)  
 **Jiangnan Xia**, Yu Yang, Xiang Wang, Ninghao Liu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026*
 </div>
@@ -73,9 +73,9 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <div class="pub" markdown="1">
 <span class="badge-venue v-cvpr">AAAI 2025</span>
 
-[**Fairtp: A prolonged fairness framework for traffic prediction (Oral)**](https://ojs.aaai.org/index.php/AAAI/article/view/34838)  
+[**Fairtp: A prolonged fairness framework for traffic prediction**](https://ojs.aaai.org/index.php/AAAI/article/view/34838)  
 **Jiangnan Xia**, Yu Yang, Jiaxing Shen, Senzhang Wang, Jiannong Cao  
-*AAAI Conference on Artificial Intelligence (AAAI) 2025*  
+*AAAI Conference on Artificial Intelligence (AAAI) 2025* <span class="award">(Oral)</span>
 <!-- <span class="pub-links">[Project Page](https://co-in-co.github.io/)</span> -->
 </div>
 
