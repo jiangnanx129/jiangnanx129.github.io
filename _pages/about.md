@@ -58,7 +58,6 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <span class="badge-venue v-review">Under Review</span>
 
 [**SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation**]
-
 **Jiangnan Xia**, Xuansheng Wu, Yu Yang, Xin Wang, Ninghao Liu  
 <!-- <span class="pub-links">[Project Page](https://groundvlm.github.io/)</span> -->
 </div>
@@ -67,7 +66,6 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <span class="badge-venue v-icml">KDD 2026</span>
 
 [**Decomposing Predictive Roles of Semantic and Collaborative Information for Sequential Recommendation**]
-
 **Jiangnan Xia**, Yu Yang, Xiang Wang, Ninghao Liu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026*
 </div>
