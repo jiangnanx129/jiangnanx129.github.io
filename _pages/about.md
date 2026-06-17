@@ -20,7 +20,7 @@ redirect_from:
 <div class="hero-card" markdown="1">
 
 
-I am a **second-year Ph.D. student** in Computer Science at the **University of Georgia**, advised by Prof. <a href="https://cobweb.cs.uga.edu/~ninghaoliu/">Ninghao Liu</a>. My research centers on recommendation systems, reasoning-aware large language models, and model interpretability, with the goal of building recommendation systems and reasoning-aware models that are more capable, reliable, and interpretable in real-world scenarios.
+I am a **second-year Ph.D. student** in Computer Science at the **University of Georgia**, advised by Prof. <a href="https://ninghaohello.github.io/">Ninghao Liu</a>. My research centers on recommendation systems, reasoning-aware large language models, and model interpretability, with the goal of building recommendation systems and reasoning-aware models that are more capable, reliable, and interpretable in real-world scenarios.
 
 Prior to my Ph.D., I received my Master's degree from the Central South University, where I was advised by Prof. <a href="https://senzhangwangcsu.github.io/index.html">Senzhang Wang</a> and worked on topics at the spatio-temporal prediction and fairness in AI. 
 
@@ -58,6 +58,7 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <span class="badge-venue v-review">Under Review</span>
 
 [**SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation**]
+
 **Jiangnan Xia**, Xuansheng Wu, Yu Yang, Xin Wang, Ninghao Liu  
 <!-- <span class="pub-links">[Project Page](https://groundvlm.github.io/)</span> -->
 </div>
@@ -66,6 +67,7 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <span class="badge-venue v-icml">KDD 2026</span>
 
 [**Decomposing Predictive Roles of Semantic and Collaborative Information for Sequential Recommendation**]
+
 **Jiangnan Xia**, Yu Yang, Xiang Wang, Ninghao Liu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026*
 </div>
