@@ -57,7 +57,7 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <div class="pub" markdown="1">
 <span class="badge-venue v-review">Under Review</span>
 
-[**SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation**] 
+[**SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation**](https://arxiv.org/abs/2606.10346)
 **Jiangnan Xia**, Xuansheng Wu, Yu Yang, Xin Wang, Ninghao Liu  
 <!-- <span class="pub-links">[Project Page](https://groundvlm.github.io/)</span> -->
 </div>
@@ -65,7 +65,7 @@ Prior to my Ph.D., I received my Master's degree from the Central South Universi
 <div class="pub" markdown="1">
 <span class="badge-venue v-icml">KDD 2026</span>
 
-**Decomposing Predictive Roles of Semantic and Collaborative Information for Sequential Recommendation**  
+[**Decomposing Predictive Roles of Semantic and Collaborative Information for Sequential Recommendation**](https://arxiv.org/abs/2606.10346)
 **Jiangnan Xia**, Yu Yang, Xiang Wang, Ninghao Liu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026*
 </div>
@@ -92,7 +92,7 @@ Haoli Wang\*, **Jiangnan Xia\***, Yu Yang, Senzhang Wang, Jiannong Cao
 
 [**Multi-view Bayesian spatio-temporal graph neural networks for reliable traffic flow prediction**](https://link.springer.com/article/10.1007/s13042-022-01689-2)  
 **Jiangnan Xia**, Senzhang Wang, Xiang Wang, Min Xia, Kun Xie, Jiannong Cao
-* International Journal of Machine Learning and Cybernetics (IJMLC) 2024*
+*International Journal of Machine Learning and Cybernetics (IJMLC) 2024*
 </div>
 
 <div class="pub" markdown="1">
